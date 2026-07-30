@@ -1,3 +1,9 @@
+# 使用案例
+
+编译器看番（×
+
+![使用案例](test.png)
+
 # 灵动窗口控制器
 
 一个独立的 Windows 窗口控制小工具，不修改、注入或依赖原有程序。
@@ -37,6 +43,9 @@
 ```
 
 构建需要 Windows 自带的 .NET Framework 4.x C# 编译器。
+
+源码位于 `src/WindowDockTool.cs`，构建结果输出到
+`bin/Release/WindowDockTool-v1.2.exe`。
 
 ## 已知限制
 
